@@ -3,6 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github)](https://github.com/ssplinterot)
 [![Telegram](https://img.shields.io/badge/Telegram-@ssplinterot-2CA5E0?style=flat&logo=telegram)](https://t.me/ssplinterot)
 [![Email](https://img.shields.io/badge/Email-margobolshakova49@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:margobolshakova49@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-View_My_CV-00C09D?style=flat&logo=readdotcv&logoColor=white)](https://rxresu.me/ssplinterot/test-resume)
 
 ✨ *Aspiring Frontend Developer* | 🎨 *Design & Motion* | 🎓 *Software Engineering Student* | 🎮 *Game Dev Background*
 
