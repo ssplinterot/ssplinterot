@@ -3,10 +3,13 @@
 
 ## 🔭 Currently working on
 
-🎓 ***University Studies*** — studying Software Engineering at BSUIR .
-🚀 ***Game Dev & VR*** — creating games like "INFINITY COSMONAUT" using Unity, C#, and Blender .
+🎓 ***University Studies*** — studying Software Engineering at BSUIR.
+
+🚀 ***Game Dev & VR*** — creating games like "INFINITY COSMONAUT" using Unity, C#, and Blender.
+
 💻 ***Software Development*** — expanding my skills in client-server applications, network protocols (TCP/UDP), and Python.
-🔬 ***Research & Analytics*** — previously published work on BIG DATA and Advanced Analytics .
+
+🔬 ***Research & Analytics*** — previously published work on BIG DATA and Advanced Analytics.
 
 ## 🛠 My Tech Stack
 
