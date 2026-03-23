@@ -28,6 +28,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-000000?style=flat&logo=assemblyscript&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=embarcadero&logoColor=white)
 
 ### Design & Creative Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
