@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marharyta Balshakova</h1>
+<h1 align="center">Hi 👋, I'm Marharyta</h1>
 <h3 align="center">I am looking for opportunities and testing myself in frontend development</h3>
 
 - 🌱 I’m currently learning **JS/TS, Python**
